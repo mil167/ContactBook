@@ -1,0 +1,14 @@
+C:\Users\Michael\Desktop\C# projects\Contacts\ContactBook\ContactBook\bin\Debug\ContactBook.exe.config
+C:\Users\Michael\Desktop\C# projects\Contacts\ContactBook\ContactBook\bin\Debug\ContactBook.exe
+C:\Users\Michael\Desktop\C# projects\Contacts\ContactBook\ContactBook\bin\Debug\ContactBook.pdb
+C:\Users\Michael\Desktop\C# projects\Contacts\ContactBook\ContactBook\obj\Debug\ContactBook.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\C# projects\Contacts\ContactBook\ContactBook\obj\Debug\ContactBook.ContactBook.resources
+C:\Users\Michael\Desktop\C# projects\Contacts\ContactBook\ContactBook\obj\Debug\ContactBook.Properties.Resources.resources
+C:\Users\Michael\Desktop\C# projects\Contacts\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.GenerateResource.cache
+C:\Users\Michael\Desktop\C# projects\Contacts\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\C# projects\Contacts\ContactBook\ContactBook\obj\Debug\ContactBook.exe
+C:\Users\Michael\Desktop\C# projects\Contacts\ContactBook\ContactBook\obj\Debug\ContactBook.pdb
+C:\Users\Michael\Desktop\C# projects\Contacts\ContactBook\ContactBook\bin\Debug\Npgsql.dll
+C:\Users\Michael\Desktop\C# projects\Contacts\ContactBook\ContactBook\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Michael\Desktop\C# projects\Contacts\ContactBook\ContactBook\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Michael\Desktop\C# projects\Contacts\ContactBook\ContactBook\obj\Debug\ContactBook.csproj.CopyComplete
